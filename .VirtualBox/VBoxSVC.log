@@ -1,0 +1,52 @@
+VirtualBox COM Server 4.2.12 r84980 win.amd64 (Apr 12 2013 11:35:06) release log
+00:00:00.032000 main     Log opened 2014-11-03T21:15:26.863753200Z
+00:00:00.032000 main     OS Product: Windows 7
+00:00:00.032000 main     OS Release: 6.1.7601
+00:00:00.032000 main     OS Service Pack: 1
+00:00:00.094000 main     DMI Product Name: Dell System XPS L502X
+00:00:00.110000 main     DMI Product Version: 
+00:00:00.110000 main     Host RAM: 2960MB total, 730MB available
+00:00:00.110000 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.110000 main     Process ID: 2836
+00:00:00.110000 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.125000          Loading settings file "C:\Users\Administrator/.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.266000          usbLibDevCfgDrGet: DeviceIoControl 1 fail winEr (31)
+00:00:01.046000          VDInit finished
+00:00:01.061000          Loading settings file "C:\Users\Administrator\AppData\Local\Genymobile\Genymotion\Genymobile\Genymotion\deployed\Galaxy S3 - 4.3 - API 18 - 720x1280\Galaxy S3 - 4.3 - API 18 - 720x1280.vbox" with version "1.12-windows"
+00:00:01.061000          Loading settings file "C:\Program Files\Genymobile\Genymotion\Galaxy S3 - 4.3 - API 18 - 720x1280\Galaxy S3 - 4.3 - API 18 - 720x1280.vbox" with version "1.12-windows"
+00:00:01.638000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:01.638000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:01.763000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:01.763000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:01.857000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:01.857000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:02.060000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:02.060000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:08.315000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:08.315000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:33.431000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:00:33.431000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:04:33.252000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:04:33.252000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:04:50.162000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:04:50.162000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:04:50.240000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:04:50.240000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:04:50.318000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:04:50.318000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:04:50.396000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:04:50.396000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:05.778000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:05.778000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:05.903000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:05.903000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:05.996000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:05.996000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:06.199000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:06.199000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:07.728000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:07.728000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:29.022000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:05:29.022000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={22781af3-1c96-4126-9edf-67a020e0e858} aComponent={SessionMachine} aText={No storage device attached to device slot 1 on port 1 of controller 'IDEController'}, preserve=false
+00:37:24.527000 USBPROXY usbLibDevCfgDrGet: DeviceIoControl 1 fail winEr (31)
+00:37:25.947000 USBPROXY usbLibDevCfgDrGet: DeviceIoControl 1 fail winEr (31)

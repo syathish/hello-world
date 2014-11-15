@@ -1,0 +1,19 @@
+VirtualBox GUI VM Selector Window 4.2.12 r84980 win.amd64 (Apr 12 2013 11:35:06) release log
+00:00:03.650000 Log opened 2014-03-17T09:21:34.924151100Z
+00:00:03.650000 OS Product: Windows 7
+00:00:03.650000 OS Release: 6.1.7601
+00:00:03.650000 OS Service Pack: 1
+00:00:03.650000 Host RAM: 2960MB total, 906MB available
+00:00:03.650000 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:03.650000 Process ID: 2536
+00:00:03.650000 Package type: WINDOWS_64BITS_GENERIC
+00:00:03.666000 Loading VMs started...
+00:00:03.666000  Loading VM {e337d04b-1dfa-4f86-95f7-bc61a30f7bf2}...
+00:00:03.666000  VM {Galaxy S3 - 4.3 - API 18 - 720x1280} is accessible.
+00:00:03.666000  VM {Galaxy S3 - 4.3 - API 18 - 720x1280} groups are {/}.
+00:00:03.666000   Creating item for VM {Galaxy S3 - 4.3 - API 18 - 720x1280}, group {}.
+00:00:03.744000  Loading VM {6ebbd1b0-c2df-4414-82aa-4be0b5c08314}...
+00:00:03.744000  VM {Galaxy S3 - 4.3 - API 18 - 720x1280} is accessible.
+00:00:03.744000  VM {Galaxy S3 - 4.3 - API 18 - 720x1280} groups are {/}.
+00:00:03.744000   Creating item for VM {Galaxy S3 - 4.3 - API 18 - 720x1280}, group {}.
+00:00:03.744000 Loading VMs finished.
